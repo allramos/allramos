@@ -33,7 +33,9 @@
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
@@ -43,6 +45,6 @@
       src="https://github-profile-trophy.vercel.app/?username=allramos&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
-</p>
+</p> -->
 
 ---
